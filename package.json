@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-tweedekamer-nl",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Dutch Parliament (Tweede Kamer) open data MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "tweedekamer-nl",
     "gatewaySlug": "tweedekamer-nl",
-    "sourceHash": "v1-282918c8f383f7d14e8c0d8332b2c3d4d293c3e9a074f06ff600ca979a7804e7",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-007c5c15c322639a944a7e6a03bdcdc52e8566627ff84ff01bf6a68969d0af8c",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
